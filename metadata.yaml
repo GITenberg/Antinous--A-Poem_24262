@@ -1,0 +1,41 @@
+_repo: Antinous--A-Poem_24262
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pessoa, Fernando
+    aliases:
+    - Pacheco, C.
+    - Nogueira Pessoa, Fernando Antonio
+    - Seabra Pessôa, Fernando António Nogueira de
+    - Reis, Ricardo
+    - Pessoa, Fernando António Nogueira
+    - Pessoa, Fernando Antonio Nogueira
+    birthdate: 1888
+    deathdate: 1935
+    gutenberg_agent_id: '9005'
+    url: http://www.gutenberg.org/2009/agents/9005
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/26230
+    - http://en.wikipedia.org/wiki/Fernando_Pessoa
+    - http://pt.wikipedia.org/wiki/Fernando_Pessoa
+description: ''
+gutenberg_issued: '2008-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24262'
+language: en
+production_note: Produced by Tiago Tejo
+publication_note: "Lisbon:\r\nMonteiro & Co.\r\n190, Rua Do Ouro, 192\r\n1918"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Homosexuality -- Poetry'
+- !lcsh 'Hadrian, Emperor of Rome, 76-138 -- Poetry'
+- !lcsh 'Antinoüs, approximately 110-130 -- Poetry'
+- !lcc 'PQ'
+title: 'Antinous: A Poem'
+url: http://www.gutenberg.org/ebooks/24262
