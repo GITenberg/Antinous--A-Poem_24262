@@ -22,6 +22,8 @@ creator:
     - http://en.wikipedia.org/wiki/Fernando_Pessoa
     - http://pt.wikipedia.org/wiki/Fernando_Pessoa
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24262#Antinous--A-Poem
 gutenberg_issued: '2008-01-12'
 gutenberg_type: Text
 identifiers:
